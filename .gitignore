@@ -1,0 +1,16 @@
+# Python 虚拟环境目录，不上传本地依赖文件。
+.venv/
+
+# Python 运行缓存目录，不上传临时字节码。
+__pycache__/
+*.py[cod]
+
+# IDE 本地配置，不上传个人开发环境设置。
+.idea/
+
+# Jupyter 临时检查点目录，不上传自动备份文件。
+.ipynb_checkpoints/
+
+# 测试和工具生成的临时缓存。
+.pytest_cache/
+
